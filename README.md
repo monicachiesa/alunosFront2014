@@ -1,0 +1,1 @@
+Projeto React utilizando Redux
